@@ -1,0 +1,46 @@
+body {
+    background-image: url("falcolovers.jpg");
+    background-repeat: repeat;
+    background-size: 100% auto;
+    cursor: url(cursor.png), pointer;
+}
+h1 {
+    text-shadow: 3px 5px #ff311a;
+    cursor: url(cursor.png), pointer;
+}
+html {
+    cursor: url(cursor.png), pointer;
+    cursor: url(cursor.png), clicker;
+}
+.topnav {
+    background-color: #ff0010;
+    overflow: hidden;
+    display: inline-block;
+    list-style-type: none;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+    font-size: 17px;
+    font-family: "Comic Sans MS";
+}
+.topnav a:hover {
+    background-color: #d9d5dd;
+    color: #ff0edc;
+}
+.topnav a.active {
+    background-color: #ff0010;
+    color: white;
+}
+.swag {
+    text-align: center;
+    color: red;
+    font-family: "Comic Sans MS;
+}
+.yolo {
+    color: #00ff1e;
+}
+}
